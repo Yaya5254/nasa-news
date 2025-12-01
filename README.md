@@ -9,11 +9,11 @@
 - **Frontend + Backend** powered by Node.js and PHP  
 - **Database** managed via phpMyAdmin  
 - **User Flow:**
-  1. Enter your **username** and **email**
-  2. Select a **date** (dd/mm/yyyy)
-  3. Click **Save**
-  4. Press **Show** to fetch NASA data
-  5. View either an **image** or a **video** from NASA’s API
+  - Enter your **username** and **email**
+  - Select a **date** (dd/mm/yyyy)
+  - Click **Save**
+  - Press **Show** to fetch NASA data
+  - View either an **image** or a **video** from NASA’s API
 
 ---
 
